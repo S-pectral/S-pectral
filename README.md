@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Websites<br>🌱 I’m currently learning KaliLinux and JavaScript<br>🎓 Studying in high school
+🔭 I’m currently working on Websites<br>🌱 I’m currently learning JavaScript and CyberSecurity<br>🎓 Studying in high school
 
 
 ## 🌐 Socials:
